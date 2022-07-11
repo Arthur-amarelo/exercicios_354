@@ -1,3 +1,4 @@
+//Arthur Dutra
 package ex456;
 import java.util.Scanner;
 public class ex6 {
