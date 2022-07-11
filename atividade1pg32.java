@@ -1,3 +1,4 @@
+//Arthur Dutra
 import java.util.Scanner;
 public class atividade1pg32{
     public static void main(String[] args) {
