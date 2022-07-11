@@ -1,3 +1,4 @@
+//Arthur Dutraa
 import java.util.Scanner;
 public class numerosprimos {
     static Integer numero;
